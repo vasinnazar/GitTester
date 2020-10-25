@@ -1,0 +1,10 @@
+ .gitignore
+.vscode/
+Assembly-CSharp.csproj
+Library/
+Logs/
+NewForGit1.sln
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
